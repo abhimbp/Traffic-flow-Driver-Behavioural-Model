@@ -17,7 +17,7 @@ The script generates the following plots to help visualize the traffic models:
 ![Vehicle Arrivals Plot](arrivals_plot.png)
 
 **2. Fundamental Diagrams of Traffic Flow**
-![Fundamental Diagrams Plot](./images/flow_diagram_plot.png)
+![Fundamental Diagrams Plot](flow_diagram_plot.png)
 
 *(Note: To generate these images, run the script and save the plots from the windows that pop up. Create an `images` folder in your project to store them.)*
 
