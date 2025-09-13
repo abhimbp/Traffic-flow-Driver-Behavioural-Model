@@ -14,7 +14,7 @@ This project provides a simple yet powerful Python script to model and visualize
 The script generates the following plots to help visualize the traffic models:
 
 **1. Vehicle Arrivals Over Time**
-![Vehicle Arrivals Plot](./images/arrivals_plot.png)
+![Vehicle Arrivals Plot](arrivals_plot.png)
 
 **2. Fundamental Diagrams of Traffic Flow**
 ![Fundamental Diagrams Plot](./images/flow_diagram_plot.png)
